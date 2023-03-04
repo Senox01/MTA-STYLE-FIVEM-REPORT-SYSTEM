@@ -1,8 +1,8 @@
 ESX = exports['es_extended']:getSharedObject()
 
 local discord_webhook = {
-    url = "https://discord.com/api/webhooks/1081578326424031262/PoFbcRTzMoF2ihZFhoFb3yVQ7DCxd2agSETHDA7ca5jSw_OtTyEas1wkAqljJynooc_Y",
-    image = "https://media.discordapp.net/attachments/1007323975451418684/1071201859202711693/bg1.png",
+    url = "webhook here",
+    image = "image here",
 }
 local server_name = "Szervered Neve"
 
